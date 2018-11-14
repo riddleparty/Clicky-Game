@@ -1,0 +1,12 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+  width: 100%
+}
+
+nav {
+  width: 1000px;
+}
+
+ul {
+  list-style-type: none;
+}
